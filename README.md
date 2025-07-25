@@ -36,7 +36,6 @@ project-root/
 │   ├── models/          # Database models (Sequelize)
 │   ├── controllers/     # Business logic controllers
 │   ├── routes/          # API route definitions
-│   ├── middleware/      # Custom middleware (error handler)
 │   ├── config/          # Database and app configuration
 │   ├── server.js        # Main server file
 │   └── package.json     # Backend dependencies
@@ -45,7 +44,6 @@ project-root/
 │   ├── src/
 │   │   ├── components/  # React components
 │   │   ├── pages/       # Page components
-│   │   ├── services/    # API service calls
 │   │   └── App.js       # Main App component
 │   ├── public/          # Static assets
 │   ├── package.json     # Frontend dependencies
